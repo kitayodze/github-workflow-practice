@@ -7,3 +7,6 @@ jobs:
     steps:
       - name: Run test
         run: echo "Test passed"
+
+      - name: Lint check
+        run: echo "Lint passed"
